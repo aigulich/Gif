@@ -1,0 +1,30 @@
+body {
+  background-color: #101B5F;
+}
+
+ul {
+  font-size: 35px;
+  color: #F72143;
+  background-color:
+  width: 500px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 40px;
+  position: absolute;
+  left: 600px;
+  top: 130px;
+}
+
+h1 {
+  padding-left: 30%;
+ color: #F72143;
+  font-size: 70px;
+  font-family: ‘Playfair Display’;
+}
+
+.gif {
+  position: absolute;
+  left: 100px;
+  top: 170px;
+  margin-bottom: 70px;
+}
